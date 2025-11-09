@@ -3,7 +3,7 @@
         <div class="card-body">
             <div>
                 <div class="text-center">
-                   <img src="{{ asset('assets/vendor/logo.png') }}" alt="">
+                   <img src="{{ asset('/assets/logo.png') }}" alt="duit" >
                     <h2>Masuk</h2>
                 </div>
                 <hr>
